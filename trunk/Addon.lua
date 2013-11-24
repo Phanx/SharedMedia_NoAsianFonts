@@ -71,5 +71,5 @@ f:SetScript("OnEvent", function()
 	end
 
 	CleanFontList()
-	LSM.RegisterCallback("SharedMedia_NoChinese", "LibSharedMedia_Registered", CleanFontList)
+	LSM.RegisterCallback("SharedMedia_NoAsianFonts", "LibSharedMedia_Registered", CleanFontList)
 end)
