@@ -3,6 +3,7 @@
 
 ## Title: SharedMedia: No Asian Fonts
 ## Notes: Removes Chinese and Korean versions of default game fonts from LibSharedMedia.
+## Notes-deDE: Chinesischen und koreanischen Versionen der Standard-Schriften aus LibSharedMedia entfernen.
 ## Notes-esES: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes defectos.
 ## Notes-esMX: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes defectos.
 
