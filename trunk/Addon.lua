@@ -1,19 +1,9 @@
 --[[--------------------------------------------------------------------
 	SharedMedia_NoAsianFonts
-	by Phanx <addons@phanx.net>
+	Copyright (c) 2012-2014 Phanx. All rights reserved.
+	See the accompanying README and LICENSE files for more information.
 	http://wow.curseforge.com/addons/sharedmedia-nochinese/
 	http://www.wowinterface.com/downloads/info21961-SharedMediaNoAsianFonts.html
-
-	Removes Chinese and Korean versions of default game fonts from
-	LibSharedMedia-3.0 for Western and Russian users.
-
-	There is no reason for these fonts to be registered by default
-	outside of Chinese and Korean game clients, as they are virtually
-	identical to Friz Quadrata, and just clutter up font menus with
-	duplicate entries for most users.
-
-	This is free and unencumbered software released into the public domain.
-	See UNLICENSE.txt for full details.
 ----------------------------------------------------------------------]]
 
 if GetLocale() == "koKR" or strmatch(GetLocale(), "^zh") then return end
