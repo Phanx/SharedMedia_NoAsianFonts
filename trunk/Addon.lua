@@ -19,7 +19,7 @@ local delete = {
 local f = CreateFrame("Frame")
 f:RegisterEvent("ADDON_LOADED")
 f:SetScript("OnEvent", function()
-	local LSM = LibStub("LibSharedMedia-3.0", true)
+	local LSM = LibStub and LibStub("LibSharedMedia-3.0", true)
 	if not LSM then return end
 
 	f:UnregisterAllEvents()
