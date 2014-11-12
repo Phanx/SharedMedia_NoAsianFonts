@@ -1,19 +1,15 @@
 ## Interface: 60000
-## Version: 6.0.2.wowi:revision
+## Version: 6.0.2.10
 
 ## Title: SharedMedia: No Asian Fonts
-## Notes: Removes the Chinese and Korean default fonts from LibSharedMedia.
-## Notes-deDE: Entfernt die chinesischen und koreanischen Standard-Schriften aus LibSharedMedia.
-## Notes-esES: Quitar de LibSharedMedia las fuentes defectas chinos y coreanos.
-## Notes-esMX: Quitar de LibSharedMedia las fuentes defectas chinos y coreanos.
+## Notes: Removes the Chinese and Korean versions of default fonts from LibSharedMedia.
+## Notes-deDE: Entfernt die chinesischen und koreanischen Versionen der Standardspielschriften aus LibSharedMedia.
+## Notes-esES: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes estandares.
+## Notes-esMX: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes estandares.
 
 ## Author: Phanx
 ## X-Email: addons@phanx.net
-## X-Copyright: Copyright (c) 2012-2014 Phanx.
-## X-License: All rights reserved.
-## X-CompatibleLocales: deDE, enUS, esES, esMX, frFR, itIT, ptBR, ruRU
-## X-Website: http://www.wowinterface.com/downloads/info21961-SharedMediaNoAsianFonts.html
-## X-Curse-ProjectName: sharedmedia-nochinese
-## X-WoWI-ID: 21961
+## X-Copyright: Copyright (c) 2012-2014 Phanx. All rights reserved.
+## X-Website: https://github.com/Phanx/SharedMedia_NoAsianFonts
 
 Addon.lua
