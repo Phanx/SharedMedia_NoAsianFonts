@@ -1,5 +1,5 @@
 ## Interface: 60000
-## Version: 6.0.2.10
+## Version: @project-version@
 
 ## Title: SharedMedia: No Asian Fonts
 ## Notes: Removes the Chinese and Korean versions of default fonts from LibSharedMedia.
