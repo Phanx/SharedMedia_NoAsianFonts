@@ -1,3 +1,7 @@
+### Version 8
+
+* Updated for WoW 7.0
+
 ### Version 7
 
 * Updated for WoW 6.1

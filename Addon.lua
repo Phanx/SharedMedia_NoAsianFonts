@@ -1,7 +1,7 @@
 --[[--------------------------------------------------------------------
 	SharedMedia: No Asian Fonts
 	Removes the Chinese and Korean default fonts from LibSharedMedia.
-	Copyright (c) 2012-2015 Phanx <addons@phanx.net>. All rights reserved.
+	Copyright (c) 2012-2016 Phanx <addons@phanx.net>. All rights reserved.
 	http://wow.curseforge.com/addons/sharedmedia-nochinese/
 	http://www.wowinterface.com/downloads/info21961-SharedMediaNoAsianFonts.html
 	https://github.com/Phanx/SharedMedia_NoAsianFonts
