@@ -11,7 +11,7 @@
 ## X-Email: addons@phanx.net
 ## X-Copyright: Copyright (c) 2012-2016 Phanx. All rights reserved.
 ## X-Website: https://github.com/Phanx/SharedMedia_NoAsianFonts
-## X-Curse-Project-ID: sharedmedia-nochinese
+## X-Curse-Project-ID: 48044
 ## X-WoWI-ID: 21961
 
 Addon.lua
