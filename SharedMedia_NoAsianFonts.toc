@@ -1,15 +1,15 @@
-## Interface: 70100
+## Interface: 70300
 ## Version: @project-version@
 
 ## Title: SharedMedia: No Asian Fonts
-## Notes: Removes the Chinese and Korean versions of default fonts from LibSharedMedia.
-## Notes-deDE: Entfernt die chinesischen und koreanischen Versionen der Standardspielschriften aus LibSharedMedia.
-## Notes-esES: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes estandares.
-## Notes-esMX: Quitar de LibSharedMedia las versiones chinos y coreanos de las fuentes estandares.
+## Notes: Removes the East Asian versions of default game fonts from LibSharedMedia.
+## Notes-deDE: Entfernt die ostasiatischen Versionen der Standardspielschriften aus LibSharedMedia.
+## Notes-esES: Quitar las versiones asiáticas orientales de las fuentes estándar de LibSharedMedia.
+## Notes-esMX: Quitar las versiones asiáticas orientales de las fuentes estándar de LibSharedMedia.
 
 ## Author: Phanx
 ## X-Email: addons@phanx.net
-## X-Copyright: Copyright (c) 2012-2016 Phanx. All rights reserved.
+## X-License: All rights reserved
 ## X-Website: https://github.com/Phanx/SharedMedia_NoAsianFonts
 ## X-Curse-Project-ID: 48044
 ## X-WoWI-ID: 21961

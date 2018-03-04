@@ -3,4 +3,3 @@ package-as: SharedMedia_NoAsianFonts
 manual-changelog:
    filename: CHANGELOG.md
    markup-type: markdown
-
